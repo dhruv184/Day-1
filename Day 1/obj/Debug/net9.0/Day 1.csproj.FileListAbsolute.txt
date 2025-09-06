@@ -1,0 +1,97 @@
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/bin/Debug/net9.0/appsettings.Development.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/bin/Debug/net9.0/appsettings.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/bin/Debug/net9.0/Day 1.staticwebassets.runtime.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/bin/Debug/net9.0/Day 1.staticwebassets.endpoints.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/bin/Debug/net9.0/Day 1
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/bin/Debug/net9.0/Day 1.deps.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/bin/Debug/net9.0/Day 1.runtimeconfig.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/bin/Debug/net9.0/Day 1.dll
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/bin/Debug/net9.0/Day 1.pdb
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.AssemblyInfoInputs.cache
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.AssemblyInfo.cs
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.csproj.CoreCompileInputs.cache
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.MvcApplicationPartsAssemblyInfo.cache
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.RazorAssemblyInfo.cache
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.RazorAssemblyInfo.cs
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.sourcelink.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/scopedcss/bundle/Day 1.styles.css
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/scopedcss/projectbundle/Day 1.bundle.scp.css
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/2cgjx1j3a3-lugek5hnai.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/qch309tcug-61n19gt1b8.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/c7v2exqprc-fr7q2aak1r.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/xucv0jb1of-bqjiyaj88i.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/fw4lecfurw-c2jlpeoesf.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/bkz46lptxw-erw9l3u2r3.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/1n94tsmajs-aexeepp0ev.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/wolrc51lyw-d7shbmvgxk.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/99qt7ywci6-ausgxo2sd3.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/1x8ciwj0xw-k8d9w2qqmf.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/37dlpvnyza-cosvhxvwiu.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/qrmw3rdh8p-ub07r2b239.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/4owypurun2-fvhpjtyr6v.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/wxi1otw083-b7pk76d08c.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/zgahn7la3b-fsbi9cje9m.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/k4atp6ba1v-rzd6atqjts.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/thldfly3h6-ee0r1s7dh0.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/8c0kdmefte-dxx9fxp4il.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/msq1q3iwhh-jd9uben2k1.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/gjc55nosrz-khv3u5hwcm.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/7f1mc3ir7l-r4e9w2rdcm.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/ixoliwi3yz-lcd1t2u6c8.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/3ynpim6syp-c2oey78nd0.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/6mba7f9399-tdbxkamptv.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/r3uvchw6u3-j5mq2jizvt.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/io9pzds6g4-06098lyss8.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/czoqyrxclg-nvvlpmu67g.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/ccjkg3sm89-s35ty4nyc5.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/u0z6evfhva-pj5nd1wqec.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/2yknu5b2sy-46ein0sx1k.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/rhr9w4o25q-v0zj4ognzu.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/ip605yi86p-37tfw0ft22.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/4gki5s134b-hrwsygsryq.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/1vdz42n4kk-pk9g2wxc8p.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/3dopevlabc-ft3s53vfgj.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/iyljgl67cv-6cfz1n2cew.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/p91pnn5ifq-6pdc2jztkx.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/slltayiy8t-493y06b0oq.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/nc40hl9mii-iovd86k7lj.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/ynimeghndk-vr1egmr9el.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/93ka5w5865-kbrnm935zg.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/t8m97vnho5-jj8uyg4cgr.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/dv6wx0mf0u-y7v9cxd14o.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/9u1osk74yn-notf2xhcfb.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/f5tlk3ujya-h1s4sie4z3.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/m898vtw64m-63fj8s7r0e.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/gzx9yjs4qx-0j3bgjxly4.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/042x011622-47otxtyo56.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/j1ly5ld49m-4v8eqarkd7.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/pvbtces4ft-l3n5xuwxn8.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/jawdj98drz-ilo7uva0vt.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/57kvgyexm2-qlccset4i1.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/2i1zccaehq-lzl9nlhx6b.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/ivmrtnxruc-ag7o75518u.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/yowmrbp20o-xzw0cte36n.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/wulxkfc7kr-0i3buxo5is.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/t58ppr673z-o1o13a6vjx.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/ypk0m8qp7f-ttgo8qnofa.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/1hgpjem19j-2z0ns9nrw6.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/bf3lxsmvrt-muycvpuwrr.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/7tomfkr59l-87fc7y1x7t.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/3e9q4kryyc-jfsiqqwiad.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/fycbbv5hqj-mkqnqbc4bn.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/compressed/6dl3pif9jh-mkqnqbc4bn.gz
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/staticwebassets.build.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/staticwebassets.development.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.dll
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/refint/Day 1.dll
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.pdb
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/Day 1.genruntimeconfig.cache
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 1/Day 1/Day 1/obj/Debug/net9.0/ref/Day 1.dll
